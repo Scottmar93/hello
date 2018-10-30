@@ -14,6 +14,8 @@ print("This is a new line to add")
 
 print("now we have both lines")
 
+print("This is adding an extra thing to the master")
+
 plt.plot(x, y)
 plt.title("Sine")
 plt.xlabel("x")
