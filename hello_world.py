@@ -9,7 +9,9 @@ print("hello world")
 
 print("now add a different line")
 
-print("going to add something for the 3rd branch")
+print("This is a new line to add")
+
+print("now we have both lines")
 
 plt.plot(x, y)
 plt.title("Sine")
