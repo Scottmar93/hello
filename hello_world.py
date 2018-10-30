@@ -13,6 +13,8 @@ print("This is a new line to add")
 
 print("now we have both lines")
 
+print("I am now checking out this second branch and making changes")
+
 plt.plot(x, y)
 plt.title("Sine")
 plt.xlabel("x")
