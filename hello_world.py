@@ -9,6 +9,8 @@ print("hello world")
 
 print("now add a different line")
 
+print("going to add something for the 3rd branch")
+
 plt.plot(x, y)
 plt.title("Sine")
 plt.xlabel("x")
