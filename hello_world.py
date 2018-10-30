@@ -7,6 +7,8 @@ y = np.sin(x)
 
 print("hello world")
 
+print("now add a different line")
+
 plt.plot(x, y)
 plt.title("Sine")
 plt.xlabel("x")
